@@ -3,7 +3,9 @@ header {
     background-color: slateblue;
 }
 /* Add a fun background color to the main element */
-
+body{
+    background-color: rgb(85, 31, 85);
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
